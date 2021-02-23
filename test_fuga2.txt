@@ -1,1 +1,2 @@
 test_fuga2
+test_fuga2追加
